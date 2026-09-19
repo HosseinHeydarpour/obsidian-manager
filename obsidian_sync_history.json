@@ -1,7 +1,7 @@
 {
   "version": 1,
   "app": "Obsidian Sync",
-  "updated": "2026-09-19 08:20:09",
+  "updated": "2026-09-19 08:22:09",
   "recent_git_repos": [
     "https://github.com/HosseinHeydarpour/obsidian-valut.git"
   ],
@@ -12,10 +12,16 @@
       "notes_remote": "https://github.com/HosseinHeydarpour/obsidian-valut.git",
       "app_repo_path": "D:/Obsidian manager/dist",
       "app_remote": "https://github.com/HosseinHeydarpour/obsidian-manager.git",
-      "updated": "2026-09-19 08:20:09"
+      "updated": "2026-09-19 08:22:09"
     }
   },
   "history": [
+    {
+      "timestamp": "2026-09-19 08:20:13",
+      "machine": "DESKTOP-2EKASSN",
+      "event": "App history synced",
+      "details": "App history saved and pushed."
+    },
     {
       "timestamp": "2026-09-19 08:18:13",
       "machine": "DESKTOP-2EKASSN",
@@ -1206,12 +1212,6 @@
     },
     {
       "timestamp": "2026-09-19 01:42:18",
-      "machine": "DESKTOP-2EKASSN",
-      "event": "App history synced",
-      "details": "App history saved and pushed."
-    },
-    {
-      "timestamp": "2026-09-19 01:40:18",
       "machine": "DESKTOP-2EKASSN",
       "event": "App history synced",
       "details": "App history saved and pushed."
