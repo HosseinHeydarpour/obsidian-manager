@@ -1,7 +1,7 @@
 {
   "version": 1,
   "app": "Obsidian Sync",
-  "updated": "2026-10-10 09:05:30",
+  "updated": "2026-10-10 09:07:38",
   "recent_git_repos": [
     "https://github.com/HosseinHeydarpour/obsidian-valut.git"
   ],
@@ -12,10 +12,16 @@
       "notes_remote": "https://github.com/HosseinHeydarpour/obsidian-valut.git",
       "app_repo_path": "D:/Obsidian manager/dist",
       "app_remote": "https://github.com/HosseinHeydarpour/obsidian-manager.git",
-      "updated": "2026-10-10 09:05:30"
+      "updated": "2026-10-10 09:07:38"
     }
   },
   "history": [
+    {
+      "timestamp": "2026-10-10 09:07:38",
+      "machine": "DESKTOP-2EKASSN",
+      "event": "Sync error",
+      "details": "Push failed:\nTo https://github.com/HosseinHeydarpour/obsidian-valut.git\n ! [rejected]        main -> main (non-fast-forward)\nerror: failed to push some refs to 'https://github.com/HosseinHeydarpour/obsidian-valut.git'\nhint: Updates were rejected because the tip of your current branch is behind\nhint: its remote counterpart. If you want to integrate the remote changes,\nhint: use 'git pull' before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+    },
     {
       "timestamp": "2026-10-10 09:05:29",
       "machine": "DESKTOP-2EKASSN",
@@ -1206,12 +1212,6 @@
     },
     {
       "timestamp": "2026-09-19 06:50:13",
-      "machine": "DESKTOP-2EKASSN",
-      "event": "App history synced",
-      "details": "App history saved and pushed."
-    },
-    {
-      "timestamp": "2026-09-19 06:48:13",
       "machine": "DESKTOP-2EKASSN",
       "event": "App history synced",
       "details": "App history saved and pushed."
