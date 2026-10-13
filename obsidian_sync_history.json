@@ -1,7 +1,7 @@
 {
   "version": 1,
   "app": "Obsidian Sync",
-  "updated": "2026-10-13 15:26:42",
+  "updated": "2026-10-13 15:28:46",
   "recent_git_repos": [
     "https://github.com/HosseinHeydarpour/obsidian-valut.git"
   ],
@@ -12,10 +12,16 @@
       "notes_remote": "https://github.com/HosseinHeydarpour/obsidian-valut.git",
       "app_repo_path": "D:/Obsidian manager/dist",
       "app_remote": "https://github.com/HosseinHeydarpour/obsidian-manager.git",
-      "updated": "2026-10-13 15:26:42"
+      "updated": "2026-10-13 15:28:46"
     }
   },
   "history": [
+    {
+      "timestamp": "2026-10-13 15:26:46",
+      "machine": "DESKTOP-2EKASSN",
+      "event": "App history synced",
+      "details": "App history saved and pushed."
+    },
     {
       "timestamp": "2026-10-13 15:24:54",
       "machine": "DESKTOP-2EKASSN",
@@ -1209,12 +1215,6 @@
       "machine": "DESKTOP-2EKASSN",
       "event": "App history error",
       "details": "App history push failed:\nfatal: unable to access 'https://github.com/HosseinHeydarpour/obsidian-manager.git/': Failed to connect to github.com port 443 after 21083 ms: Could not connect to server"
-    },
-    {
-      "timestamp": "2026-10-11 00:16:54",
-      "machine": "DESKTOP-2EKASSN",
-      "event": "Sync error",
-      "details": "Push failed:\nfatal: unable to access 'https://github.com/HosseinHeydarpour/obsidian-valut.git/': Failed to connect to github.com port 443 after 21045 ms: Could not connect to server"
     }
   ]
 }
