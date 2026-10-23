@@ -1,7 +1,7 @@
 {
   "version": 1,
   "app": "Obsidian Sync",
-  "updated": "2026-10-23 04:11:42",
+  "updated": "2026-10-23 04:13:42",
   "recent_git_repos": [
     "https://github.com/HosseinHeydarpour/obsidian-valut.git"
   ],
@@ -12,10 +12,22 @@
       "notes_remote": "https://github.com/HosseinHeydarpour/obsidian-valut.git",
       "app_repo_path": "D:/Obsidian manager/dist",
       "app_remote": "https://github.com/HosseinHeydarpour/obsidian-manager.git",
-      "updated": "2026-10-23 04:11:42"
+      "updated": "2026-10-23 04:13:42"
     }
   },
   "history": [
+    {
+      "timestamp": "2026-10-23 04:13:42",
+      "machine": "DESKTOP-2EKASSN",
+      "event": "Sync error",
+      "details": "Merge conflict while syncing, so the merge was cancelled.\nConflicting files: warning: in the working copy of 'Asp.Net Core/Razor Views (MVC).md', LF will be replaced by CRLF the next time Git touches it, warning: in the working copy of 'Asp.Net Core/progress.html', LF will be replaced by CRLF the next time Git touches it, warning: in the working copy of 'Asp.Net Core/progress.md', LF will be replaced by CRLF the next time Git touches it\nResolve the conflict in Git, then press Sync Now."
+    },
+    {
+      "timestamp": "2026-10-23 04:11:45",
+      "machine": "DESKTOP-2EKASSN",
+      "event": "App history synced",
+      "details": "App history saved and pushed."
+    },
     {
       "timestamp": "2026-10-23 04:11:42",
       "machine": "DESKTOP-2EKASSN",
@@ -1200,18 +1212,6 @@
     },
     {
       "timestamp": "2026-10-23 00:53:45",
-      "machine": "DESKTOP-2EKASSN",
-      "event": "App history synced",
-      "details": "App history saved and pushed."
-    },
-    {
-      "timestamp": "2026-10-23 00:53:41",
-      "machine": "DESKTOP-2EKASSN",
-      "event": "Sync error",
-      "details": "Merge conflict while syncing, so the merge was cancelled.\nConflicting files: warning: in the working copy of 'Asp.Net Core/Razor Views (MVC).md', LF will be replaced by CRLF the next time Git touches it, warning: in the working copy of 'Asp.Net Core/progress.html', LF will be replaced by CRLF the next time Git touches it, warning: in the working copy of 'Asp.Net Core/progress.md', LF will be replaced by CRLF the next time Git touches it\nResolve the conflict in Git, then press Sync Now."
-    },
-    {
-      "timestamp": "2026-10-23 00:51:46",
       "machine": "DESKTOP-2EKASSN",
       "event": "App history synced",
       "details": "App history saved and pushed."
